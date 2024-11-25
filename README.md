@@ -4,7 +4,7 @@
 
 ## 🌟 ¿Quiénes somos?
 
-En Tukul, creemos que la tecnología tiene el poder de transformar negocios y vidas. Con un equipo multidisciplinario de desarrolladores, diseñadores y estrategas, trabajamos para entregar software que **inspira confianza** y **agrega valor real** a nuestros clientes.
+En Tukul Soft, creemos que la tecnología tiene el poder de transformar negocios y vidas. Con un equipo multidisciplinario de desarrolladores, diseñadores y estrategas, trabajamos para entregar software que **inspira confianza** y **agrega valor real** a nuestros clientes.
 
 Nuestra experiencia incluye:
 - **Desarrollo de aplicaciones web y móviles.**
